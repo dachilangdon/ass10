@@ -1,0 +1,23 @@
+
+.container {
+    width: 300px;
+    margin: 50px auto;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+
+  button {
+    background-color: #1710ed30;
+    color: rgb(52, 23, 166);
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer; }
